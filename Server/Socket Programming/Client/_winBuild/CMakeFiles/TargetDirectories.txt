@@ -1,0 +1,3 @@
+C:/_development/Code/Socket Programming/Client/_winBuild/CMakeFiles/ClientProj.dir
+C:/_development/Code/Socket Programming/Client/_winBuild/CMakeFiles/ALL_BUILD.dir
+C:/_development/Code/Socket Programming/Client/_winBuild/CMakeFiles/ZERO_CHECK.dir
